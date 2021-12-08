@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4cd174fa-a6d4-4912-8fa5-132f3ffef0b6">
+  <name>МебельДомТорг</name>
+  <synonym>
+    <key>ru</key>
+    <value>ООО &quot;МебельДомТорг&quot;</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="07e600d7-ff17-4cf1-9709-78097c13b772"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ba6abc33-1778-4354-a324-5b638485f132"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="a6154b4c-48f9-49ab-9f05-bc6ba155ed3a"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="fd0a7a3a-4bf6-4da6-acd1-4f505555a9cc"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="e7a86427-f174-4a1a-a5e8-2399a41c7f20"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="0c3a3cc5-8b83-4feb-9148-8b2bdec9ac77"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="f886f49c-15a4-4675-b73b-f7effdd592d7"/>
+  <configurationExtensionCompatibilityMode>8.3.20</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.20</compatibilityMode>
+  <languages uuid="875abbdd-122a-4d8b-b012-ba767c53cc49">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <constants>Constant.НаименованиеОрганизации</constants>
+  <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <enums>Enum.ТипыТоваров</enums>
+</mdclass:Configuration>
